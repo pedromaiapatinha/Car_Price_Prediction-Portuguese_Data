@@ -11,7 +11,7 @@
 
 ## Overview
 The goal of this project was to create a dataset with a considerable amount of data to build a machine learning system to predict car prices in the Portuguese market.
-After the collection of data of almost 40 000 cars using web scraping, the data was cleaned and processed. With this data several machine learning algorithms and neural networks were trained in order to find the best model for car price prediction.
+After the collection of almost 40 000 cars using web scraping, the data was cleaned and processed. With this data several machine learning algorithms and neural networks were trained in order to find the best model for car price prediction.
 * Data Collection
 * Data Cleaning
 * Data Transformation
