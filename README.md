@@ -45,6 +45,7 @@ pip install -r requirements.txt
 ## Directory Tree 
 ```
 ├── Portugal Car Price Prediction.ipynb
+├── requirements.txt
 └── README.md
 ```
 
