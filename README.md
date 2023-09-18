@@ -30,7 +30,7 @@ With this machine learning system, anyone can use it to one or several the follo
 ## The Challenge
 There was tree big challenges in this project:
 * The amount of missing values - besides collecting a large number of variables, in the end I had to reduce its number, sticking with only the ones that were possible to be considered to feed a machine learning system. The variables with a low amount of missing values were included after imputing values;
-* Categorical Variables with a large number of values - this turned out to be a challenge since variables like the car Model can impact the price. 
+* Categorical Variables with a large number of values - this turned out to be a challenge since variables like the car Model and the car Version can impact the price;
 * The data collection - Collecting data from thousands of cars listed in portuguese websites was a challenging task, since these websites always have limits to bots. Fortunately, Python is a very versatile language that offers a lot of ways to put logic into practice.
 
 ## Data Collection
