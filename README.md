@@ -34,7 +34,7 @@ There was tree big challenges in this project:
 * The data collection - Collecting data from thousands of cars listed in portuguese websites was a challenging task, since these websites always have limits to bots. Fortunately, Python is a very versatile language that offers a lot of ways to put logic into practice.
 
 ## Data Collection
-The web srapping was done on 05/2022 and data from 34 909 cars was collected. A continuous data collection system was also built but wasn't used since the nature of this project had a limited time frame.
+The web scraping was done on 05/2022 and data from 34 909 cars was collected. A continuous data collection system was also built but wasn't used since the nature of this project had a limited time frame.
 
 ## Installation
 The Code is written in Python 3.10.6 If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
